@@ -1,0 +1,67 @@
+[
+  {
+    "position": 1,
+    "lot_id": "SV-103",
+    "chamber": "Cold A",
+    "species": "Betula nana",
+    "received_on": "2097-01-09",
+    "packet_count": 15,
+    "action": "ISOLATE",
+    "basis": "latest test contamination positive",
+    "latest_test_utc": "2097-02-14T08:00:00Z",
+    "germination_pct": "93.0",
+    "contamination": "positive"
+  },
+  {
+    "position": 2,
+    "lot_id": "SV-102",
+    "chamber": "Cold B",
+    "species": "Picea glauca",
+    "received_on": "2097-01-10",
+    "packet_count": 8,
+    "action": "REVIEW",
+    "basis": "restricted origin with germination below 80",
+    "latest_test_utc": "2097-02-12T12:00:00Z",
+    "germination_pct": "72.5",
+    "contamination": "clear"
+  },
+  {
+    "position": 3,
+    "lot_id": "SV-104",
+    "chamber": "Cold C",
+    "species": "Salix arctica",
+    "received_on": "2097-01-11",
+    "packet_count": 6,
+    "action": "REVIEW",
+    "basis": "restricted origin without test",
+    "latest_test_utc": "none",
+    "germination_pct": "none",
+    "contamination": "none"
+  },
+  {
+    "position": 4,
+    "lot_id": "SV-105",
+    "chamber": "Cold D",
+    "species": "Lupinus arcticus",
+    "received_on": "2097-01-08",
+    "packet_count": 9,
+    "action": "REGENERATE",
+    "basis": "germination below 70",
+    "latest_test_utc": "2097-02-13T06:30:00Z",
+    "germination_pct": "64.0",
+    "contamination": "clear"
+  },
+  {
+    "position": 5,
+    "lot_id": "SV-106",
+    "chamber": "Cold B",
+    "species": "Empetrum nigrum",
+    "received_on": "2097-01-13",
+    "packet_count": 11,
+    "action": "TEST",
+    "basis": "domestic lot without test",
+    "latest_test_utc": "none",
+    "germination_pct": "none",
+    "contamination": "none"
+  }
+]
