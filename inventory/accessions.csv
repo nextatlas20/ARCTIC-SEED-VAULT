@@ -1,0 +1,14 @@
+lot_id,chamber,species,received_on,packet_count,origin_class,revision
+SV-101, Cold A ,Festuca rubra,2097-01-12,12,domestic,1
+SV-102,Cold B,Picea glauca,2097-01-10,7,restricted,1
+SV-102,Cold B,Picea glauca,2097-01-10,8,restricted,2
+SV-103,Archive X,Betula nana,2097-01-09,14,domestic,1
+SV-103, Cold A,Betula nana ,2097-01-09,15,domestic,2
+SV-104,Cold C,Salix arctica,2097-01-11,6,restricted,1
+SV-105,Cold D,Lupinus arcticus,2097-01-08,9,domestic,1
+SV-106,Cold B,Empetrum nigrum,2097-01-13,11,domestic,1
+SV-107,Cold E,Armeria maritima,2097-01-14,5,domestic,1
+SV-108,Cold F,Dryas octopetala,2097-01-15,4,restricted,01
+SV-102,Cold Z,Picea glauca,2097-02-30,99,restricted,3
+bad,row
+
